@@ -36,8 +36,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 -----------------------------
 
-**Guía de Creación: Web Corporativa con Next.js y shadcn/ui
-**Esta guía detalla el proceso paso a paso para configurar y construir una página de inicio para una web corporativa utilizando Next.js, TailwindCSS y la librería de componentes shadcn/ui.
+**Guía de Creación: Web Corporativa con Next.js y shadcn/ui**
+Esta guía detalla el proceso paso a paso para configurar y construir una página de inicio para una web corporativa utilizando Next.js, TailwindCSS y la librería de componentes shadcn/ui.
 
 Paso 1: Configuración Inicial del Proyecto
 Primero, creamos la estructura base de nuestro proyecto con Next.js.
