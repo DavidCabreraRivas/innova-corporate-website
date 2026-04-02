@@ -78,7 +78,7 @@ export default function CasosPage() {
       {/* Cases */}
       <section className="py-20 bg-offwhite">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
-          {casos.map((caso, i) => (
+          {casos.map((caso) => (
             <div
               key={caso.type}
               className="bg-white rounded-lg border border-border overflow-hidden"
